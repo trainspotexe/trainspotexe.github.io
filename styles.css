@@ -1,3 +1,7 @@
+a{
+    color: #770077;
+    text-decoration: none;
+}
 head{
     padding: 0; margin: 0;
 }
@@ -13,7 +17,7 @@ div.headcentre{
 div.page{
     text-align: center;
 }
-a{
-    color: #770077;
-    text-decoration: none;
+div.tsxtransit{
+    font-family: 'Patua One', sans-serif;
+    text-align: center;
 }
